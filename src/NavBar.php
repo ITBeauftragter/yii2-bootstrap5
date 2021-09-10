@@ -7,7 +7,7 @@
 
 declare(strict_types=1);
 
-namespace yii\bootstrap5;
+namespace itbeauftragter\bootstrap5;
 
 use Yii;
 use yii\helpers\ArrayHelper;
@@ -20,8 +20,8 @@ use yii\helpers\ArrayHelper;
  * or [[\yii\widgets\Menu]] to build up such content. For example,
  *
  * ```php
- * use yii\bootstrap5\NavBar;
- * use yii\bootstrap5\Nav;
+ * use itbeauftragter\bootstrap5\NavBar;
+ * use itbeauftragter\bootstrap5\Nav;
  *
  * NavBar::begin(['brandLabel' => 'NavBar Test']);
  * echo Nav::widget([

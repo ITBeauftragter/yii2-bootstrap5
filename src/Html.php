@@ -7,7 +7,7 @@
 
 declare(strict_types=1);
 
-namespace yii\bootstrap5;
+namespace itbeauftragter\bootstrap5;
 
 /**
  * Class Html

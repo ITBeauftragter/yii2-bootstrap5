@@ -7,19 +7,19 @@
 
 declare(strict_types=1);
 
-namespace yii\bootstrap5;
+namespace itbeauftragter\bootstrap5;
 
 use yii\base\InvalidConfigException;
 
 /**
  * ToggleButtonGroup allows rendering form inputs Checkbox/Radio toggle button groups.
  *
- * You can use this widget in an [[yii\bootstrap5\ActiveForm|ActiveForm]] using the [[yii\widgets\ActiveField::widget()|widget()]]
+ * You can use this widget in an [[itbeauftragter\bootstrap5\ActiveForm|ActiveForm]] using the [[yii\widgets\ActiveField::widget()|widget()]]
  * method, for example like this:
  *
  * ```php
- * <?= $form->field($model, 'item_id')->widget(\yii\bootstrap5\ToggleButtonGroup::class, [
- *     'type' => \yii\bootstrap5\ToggleButtonGroup::TYPE_CHECKBOX
+ * <?= $form->field($model, 'item_id')->widget(\itbeauftragter\bootstrap5\ToggleButtonGroup::class, [
+ *     'type' => \itbeauftragter\bootstrap5\ToggleButtonGroup::TYPE_CHECKBOX
  *     'items' => [
  *         'fooValue' => 'BarLabel',
  *         'barValue' => 'BazLabel'

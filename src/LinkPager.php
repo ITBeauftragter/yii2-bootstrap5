@@ -7,7 +7,7 @@
 
 declare(strict_types=1);
 
-namespace yii\bootstrap5;
+namespace itbeauftragter\bootstrap5;
 
 use yii\base\InvalidConfigException;
 use yii\data\Pagination;
@@ -25,7 +25,7 @@ use yii\helpers\ArrayHelper;
  * ```php
  * 'container' => [
  *    'definitions' => [
- *       \yii\widgets\LinkPager::class => \yii\bootstrap5\LinkPager::class,
+ *       \yii\widgets\LinkPager::class => \itbeauftragter\bootstrap5\LinkPager::class,
  *    ],
  * ],
  * ```

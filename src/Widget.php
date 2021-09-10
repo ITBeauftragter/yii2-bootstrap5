@@ -7,10 +7,10 @@
 
 declare(strict_types=1);
 
-namespace yii\bootstrap5;
+namespace itbeauftragter\bootstrap5;
 
 /**
- * \yii\bootstrap5\Widget is the base class for all bootstrap5 widgets.
+ * \itbeauftragter\bootstrap5\Widget is the base class for all bootstrap5 widgets.
  */
 class Widget extends \yii\base\Widget
 {

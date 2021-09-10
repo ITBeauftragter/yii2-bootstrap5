@@ -1,6 +1,6 @@
 {
-    "name": "yiisoft/yii2-bootstrap5",
-    "description": "The Twitter Bootstrap v5 extension for the Yii framework",
+    "name": "itbeauftragter/yii2-bootstrap5",
+    "description": "NSL: The Twitter Bootstrap v5 extension for the Yii framework",
     "keywords": [
         "yii2",
         "bootstrap",
@@ -13,13 +13,9 @@
     },
     "authors": [
         {
-            "name": "Sergey Zhukovskiy",
-            "email": "mylistryx@gmail.com",
-            "homepage": "https://net23.ru/"
-        },
-        {
-            "name": "Simon Karlen",
-            "email": "simi.albi@outlook.com"
+            "name": "Daniel Lucas",
+            "email": "daniel.lucas@neusser-schuetzenlust.de",
+            "homepage": "https://www.neusser-schuetzenlust.de"
         }
     ],
     "minimum-stability": "stable",
@@ -27,7 +23,8 @@
         "php": ">=7.0",
         "ext-json": "*",
         "yiisoft/yii2": "^2.0.42",
-        "bower-asset/bootstrap": "^5.1.0"
+        "bower-asset/bootstrap": "^5.1.0",
+        "npm-asset/jquery": "^2.2"
     },
     "require-dev": {
         "yiisoft/yii2-coding-standards": "~2.0",
@@ -41,7 +38,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "yii\\bootstrap5\\": "src"
+            "itbeauftragter\\bootstrap5\\": "src"
         }
     },
     "autoload-dev": {

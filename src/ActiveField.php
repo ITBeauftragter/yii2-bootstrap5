@@ -7,7 +7,7 @@
 
 declare(strict_types=1);
 
-namespace yii\bootstrap5;
+namespace itbeauftragter\bootstrap5;
 
 use yii\helpers\ArrayHelper;
 
@@ -49,7 +49,7 @@ use yii\helpers\ArrayHelper;
  * Example:
  *
  * ```php
- * use yii\bootstrap5\ActiveForm;
+ * use itbeauftragter\bootstrap5\ActiveForm;
  *
  * $form = ActiveForm::begin(['layout' => 'horizontal']);
  *
