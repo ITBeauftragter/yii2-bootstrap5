@@ -9,7 +9,7 @@
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "source": "https://github.com/yiisoft/yii2-bootstrap5"
+        "source": "https://github.com/itbeauftragter/yii2-bootstrap5"
     },
     "authors": [
         {

@@ -1,8 +1,5 @@
 <p align="center">
-    <a href="http://getbootstrap.com/" target="_blank" rel="external">
-        <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" height="80px">
-    </a>
-    <h1 align="center">Twitter Bootstrap 5 Extension for Yii 2</h1>
+    <h1 align="center">NSL: Twitter Bootstrap 5 Extension for Yii 2</h1>
     <br>
 </p>
 
